@@ -21,20 +21,20 @@
       },
       {
         "id": 2,
-        "title": "iPhone X",
-        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "title": "One plus 11R",
+        "description": "OnePlus 11R is a flagship investment equipped with a plethora of advanced features. Its multifaceted configuration sheet is all set to provide a fulfilling operational experience throughout. Also, a 128GB internal space and Android v12 OS loaded inside are of great help.",
         "price": 899,
         "discountPercentage": 17.94,
         "rating": 4.44,
         "stock": 34,
-        "brand": "Apple",
+        "brand": "Oneplus",
         "category": "smartphones",
-        "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg",
+        "thumbnail": "https://www.91-img.com/pictures/148954-v4-oneplus-11r-mobile-phone-large-1.jpg",
         "images": [
-          "https://dummyjson.com/image/i/products/2/1.jpg",
-          "https://dummyjson.com/image/i/products/2/2.jpg",
-          "https://dummyjson.com/image/i/products/2/3.jpg",
-          "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+          "https://www.91-img.com/pictures/148954-v4-oneplus-11r-mobile-phone-large-1.jpg",
+          "https://www.91-img.com/gallery_images_uploads/3/7/37f0bff82b05d324ee546d52e4f17ad1968ce885.jpg?w=0&h=901&q=80&c=1",
+          "https://www.91-img.com/gallery_images_uploads/4/1/4193d73aeba019444cbf44fb10305a7fe585cecc.jpg?w=0&h=901&q=80&c=1",
+          "https://www.91-img.com/gallery_images_uploads/9/2/929c9f85d374d82136da2c85304d554421cfea13.jpg?w=0&h=901&q=80&c=1"
         ]
       },
       {
