@@ -4,7 +4,7 @@
         "id": 1,
         "title": "Samsung Galaxy S23 Ultra",
         "description": "The Powerful Samsung Galaxy S23 Ultra",
-        "price": 700,
+        "price": 69999,
         "discountPercentage": 12.96,
         "rating": 4.69,
         "stock": 94,
@@ -23,7 +23,7 @@
         "id": 2,
         "title": "One plus 11R",
         "description": "OnePlus 11R is a flagship investment equipped with a plethora of advanced features. Its multifaceted configuration sheet is all set to provide a fulfilling operational experience throughout. Also, a 128GB internal space and Android v12 OS loaded inside are of great help.",
-        "price": 899,
+        "price": 39999,
         "discountPercentage": 17.94,
         "rating": 4.44,
         "stock": 34,
@@ -39,17 +39,17 @@
       },
       {
         "id": 3,
-        "title": "Samsung Universe 9",
-        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-        "price": 1249,
+        "title": "Realme Narzo 50",
+        "description": "realme Narzo 50 Pro 5G (Hyper Blue 6GB RAM+128GB Storage) Super AMOLED | Advanced Dimensity 920 5G Gaming Processor | 50% Charge in 31 min",
+        "price": 13999,
         "discountPercentage": 15.46,
         "rating": 4.09,
         "stock": 36,
-        "brand": "Samsung",
+        "brand": "Realme",
         "category": "smartphones",
-        "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
+        "thumbnail": "https://m.media-amazon.com/images/I/71vZdBsMqaL._SX679_.jpg",
         "images": [
-          "https://dummyjson.com/image/i/products/3/1.jpg"
+          "https://m.media-amazon.com/images/I/71mDlesvVKL._SX679_.jpg"
         ]
       },
       {
@@ -73,19 +73,19 @@
       },
       {
         "id": 5,
-        "title": "Huawei P30",
-        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-        "price": 499,
+        "title": "Fire-Boltt Ninja",
+        "description": "Fire-Boltt Ninja Call Pro Plus 1.83" Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution (Black)",
+        "price": 4979,
         "discountPercentage": 10.58,
         "rating": 4.09,
         "stock": 32,
-        "brand": "Huawei",
-        "category": "smartphones",
-        "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
+        "brand": "Fire Bolt",
+        "category": "smartwatch",
+        "thumbnail": "https://m.media-amazon.com/images/I/61S9aVnRZDL._SY450_.jpg",
         "images": [
-          "https://dummyjson.com/image/i/products/5/1.jpg",
-          "https://dummyjson.com/image/i/products/5/2.jpg",
-          "https://dummyjson.com/image/i/products/5/3.jpg"
+          "hhttps://m.media-amazon.com/images/I/81DEzbJ9ERL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/71U-rEX7y5L._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/71caV57crpL._SY450_.jpg"
         ]
       },
       {
@@ -108,20 +108,20 @@
       },
       {
         "id": 7,
-        "title": "Samsung Galaxy Book",
-        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-        "price": 1499,
+        "title": "Wesley Milestone 2.0",
+        "description": "Wesley Milestone 2.0 Casual Waterproof Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Travel Backpack (Dimensions:13x18 inches) (Compatible with 39.62cm(15.6inch laptop) 30 L (Blue & black)",
+        "price": 499,
         "discountPercentage": 4.15,
         "rating": 4.25,
         "stock": 50,
-        "brand": "Samsung",
-        "category": "laptops",
+        "brand": "Wesley",
+        "category": "bag",
         "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
         "images": [
-          "https://dummyjson.com/image/i/products/7/1.jpg",
-          "https://dummyjson.com/image/i/products/7/2.jpg",
-          "https://dummyjson.com/image/i/products/7/3.jpg",
-          "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+          "https://m.media-amazon.com/images/I/811AxL+qTpL._SY606_.jpg",
+          "https://m.media-amazon.com/images/I/91sriwU7EpL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/81ArAQS-KkL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/81q683-f05L._SY450_.jpg"
         ]
       },
       {
